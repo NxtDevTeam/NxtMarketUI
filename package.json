@@ -20,7 +20,7 @@
     "cosmicjs": "^3.0.9",
     "dotenv": "^5.0.0",
     "express": "^4.15.3",
-    "nuxt": "^1.0.0",
+    "nuxt": "^3.0.0",
     "stripe": "^5.4.0",
     "vue-stripe-checkout": "0.0.4",
     "babel-eslint": "^8.2.1",
